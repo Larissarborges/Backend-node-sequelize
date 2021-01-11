@@ -1,2 +1,8 @@
-# Teste-LabLuby-Node
-App with express + sequelize
+# Backend build with Node
+
+Instruções para execução
+Primeiro será necessário instalar as dependências. Para isso, execute o comando:
+
+Depois, execute o comando abaixo para rodar o projeto:
+
+npm start
