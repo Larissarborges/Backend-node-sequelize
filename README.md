@@ -1,4 +1,4 @@
-# Backend build with Node
+# Backend built with Node
 
 Instruções para execução
 Primeiro será necessário instalar as dependências. Para isso, execute o comando:
